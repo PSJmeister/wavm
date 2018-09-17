@@ -1,4 +1,4 @@
-package com.itbank.dataCheck;
+﻿package com.itbank.dataCheck;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
@@ -32,6 +32,7 @@ public class Data01 {
 		DocumentBuilder builder;
 		Document doc = null;
 
+		//dsfuiodflidjfelifjelifjel
 		try {
 			// OpenApi 호출
 			// String urlstr =
